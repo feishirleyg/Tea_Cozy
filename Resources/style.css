@@ -1,0 +1,46 @@
+/*header*/
+header{
+  position:fixed;
+  background-color:black;
+  display:flex;
+  height:69px;
+  width:100%;
+}
+
+
+/*mission*/
+
+.mission{
+    background-image: url("mission-background.jpg");
+    height:700px;
+}
+
+
+/*tea*/
+
+.berry{
+    background-image: url("donut.jpg");
+}
+
+.rum{
+    background-image: url("spiced-rum.jpg");
+}
+
+.donuts{
+    background-image: url("donut.jpg");
+}
+
+.myrtle{
+    background-image: url("myrtle-ave.jpg");
+}
+
+.bedford{
+    background-image: url("bedford-bizarre.jpg");
+}
+
+/*locations*/
+
+.locations{
+    background-image: url("locations-background.jpg");
+    height:700px;
+}

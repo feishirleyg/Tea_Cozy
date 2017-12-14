@@ -6,6 +6,7 @@ html{
     background-color:black;
     opacity:0.9;
     width:1200px;
+    margin:auto;
 }
 
 h2,h4 {
@@ -30,6 +31,7 @@ header{
     background-color: black;
     align-items: center;
     justify-content: space-between;
+    left:0;
 }
 
 .logo{
@@ -179,5 +181,7 @@ h5{
 
 .copyright{
     text-align:left;
-    margin-left:20px;
+    left:20px;
+    top:2350px;
+    position:absolute;
 }
